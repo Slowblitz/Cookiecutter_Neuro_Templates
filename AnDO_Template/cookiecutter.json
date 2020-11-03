@@ -1,0 +1,8 @@
+{
+    
+    "experiment_name" : "experiment_name",
+    "subject_name" : "subject_name",
+    "session_date" : "YYYYMMDD",
+    "session_number" :"XXX",
+    "session_comments" :"comments"
+}
